@@ -13,7 +13,7 @@ framework, given a set of fusion images and labels, the image picture prediction
 of the fitted label pictures from the fusion images. The image-video translator then translates the output of the fused
 image prediction generator into future video frames. In addition, this paper proposes an accompanying convolution model and
 corresponding algorithm for improving image sharpness. Our experimental results prove the effectiveness of this framework.
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/model.png)
 
 ## Requirements
 
