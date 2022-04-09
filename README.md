@@ -1,8 +1,8 @@
 # Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/536b96ae72420bd5ce49d1d322d6ee62a5c118f2.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1b5411n73g?spm_id_from=333.999.0.0)
+[![Watch the video](https://i0.hdslb.com/bfs/archive/4fbbe8f763fccdf6450a2465538888dd470ce527.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1Qv411x7XH?spm_id_from=333.999.0.0)
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/abe6e4deb8fc0b755a81747063de70ee2fa96cde.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1op4y1s7RD?spm_id_from=333.999.0.0)
+[![Watch the video](https://i0.hdslb.com/bfs/archive/a614fb817937f87a556bc2a87b6439a15c59acb7.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1hi4y1F7rz?spm_id_from=333.999.0.0)
 
 # Abstract
 Although focusing on the field of video generation has made some progress in network performance and computationalefficiency, 
