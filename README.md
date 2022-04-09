@@ -1,4 +1,5 @@
 # Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network
+----------------------------------------------------------------------------------------------
 Flow-based Kernel Prior with Application to Blind Super-Resolution (FKP), CVPR2021
 This repository is the official PyTorch implementation of Flow-based Kernel Prior with Application to Blind Super-Resolution (arxiv, supp).
 
