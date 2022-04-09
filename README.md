@@ -1,6 +1,8 @@
-# Project Title
- 
-Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network
+# Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network
+
+[![Watch the video](https://i0.hdslb.com/bfs/archive/536b96ae72420bd5ce49d1d322d6ee62a5c118f2.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1b5411n73g?spm_id_from=333.999.0.0)
+
+[![Watch the video](https://i0.hdslb.com/bfs/archive/abe6e4deb8fc0b755a81747063de70ee2fa96cde.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1op4y1s7RD?spm_id_from=333.999.0.0)
 
 # Abstract
 Although focusing on the field of video generation has made some progress in network performance and computationalefficiency, 
@@ -13,7 +15,7 @@ framework, given a set of fusion images and labels, the image picture prediction
 of the fitted label pictures from the fusion images. The image-video translator then translates the output of the fused
 image prediction generator into future video frames. In addition, this paper proposes an accompanying convolution model and
 corresponding algorithm for improving image sharpness. Our experimental results prove the effectiveness of this framework.
-![This is an image]https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/model.png)
+![This is an image](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/model.png)
 
 ## Requirements
 
