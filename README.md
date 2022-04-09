@@ -67,7 +67,8 @@ Upscale Factor = 2
 
 Epochs with batch size of 64 takes ~1 minute on a NVIDIA GeForce 3090 GPU.
 
-![This is an image](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/PSNR_BIKE.emf)
+![This is an image](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/PSNR_BIKE.png)
+![This is an image](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/SSIM_BIKE.png)
 
 
 
