@@ -69,6 +69,27 @@ Epochs with batch size of 64 takes ~1 minute on a NVIDIA GeForce 3090 GPU.
 
 ![This is an image](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/PSNR_BIKE.png)
 ![This is an image](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/SSIM_BIKE.png)
+In the case of three 16consecutive fused picturesselected at random, pix2pixHD is
+quantitatively compared with the model in this paper. Given 16 input frames, the model recursively generates 32 output frames. In this paper, the wake-upstatistics are all from the 16th frame generated. Left: the PSNRvalue is evaluated. Right: the SSIM value is evaluated
+
+# Cite
+ 
+ 
+```
+@article{jing2021video,
+  title={Video prediction: a step-by-step improvement of a video synthesis network},
+  author={Jing, Beibei and Ding, Hongwei and Yang, Zhijun and Li, Bo and Bao, Liyong},
+  journal={Applied Intelligence},
+  pages={1--13},
+  year={2021},
+  publisher={Springer}
+}
+
+```
+
+
+
+
 
 
 
