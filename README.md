@@ -1,9 +1,10 @@
 # Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network
 
+[![Watch the video](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/lvideo.gif)](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/lvideo.gif)
 [![Watch the video](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/ccideo.gif)](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/ccideo.gif)
 
+[![Watch the video](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/rlvideo.gif)](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/rlvideo.gif)
 [![Watch the video](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/rvideo.gif)](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/rvideo.gif)
-
 # Abstract
 Although focusing on the field of video generation has made some progress in network performance and computationalefficiency, 
 there is still much room for improvement in terms of the predicted frame number and clarity. In this paper, a depthlearning 
