@@ -1,8 +1,8 @@
 # Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/4fbbe8f763fccdf6450a2465538888dd470ce527.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1Qv411x7XH?spm_id_from=333.999.0.0)
+[![Watch the video](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/ccideo.gif)](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/ccideo.gif)
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/a614fb817937f87a556bc2a87b6439a15c59acb7.jpg@640w_400h_1c_!web-space-index-myvideo.webp)](https://www.bilibili.com/video/BV1hi4y1F7rz?spm_id_from=333.999.0.0)
+[![Watch the video](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/rvideo.gif)](https://github.com/Happypiepie/Video-prediction-a-step-by-step-improvement-of-a-video-synthesis-network/blob/main/rvideo.gif)
 
 # Abstract
 Although focusing on the field of video generation has made some progress in network performance and computationalefficiency, 
